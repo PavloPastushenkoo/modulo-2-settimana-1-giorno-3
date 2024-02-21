@@ -1,0 +1,21 @@
+#contenitoreArticolo{
+    background-color: rgb(250, 247, 227);
+    color: rgba(97, 36, 7, 1);
+    border-radius: 20px;
+    padding: 25px;
+}
+#contenitoreArticolo h3{
+    margin: 0;
+    font-size: 1.5em;
+}
+
+
+#contenitoreImmagine{
+    display: flex;
+    justify-content: center;
+}
+
+#contenitoreImmagine img{
+    width: 100%;
+
+}
